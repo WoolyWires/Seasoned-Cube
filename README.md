@@ -4,7 +4,7 @@ An interactive 3D enviromnent using WebGL created for a project in Advanced Comp
 
 ## Running the Application
 
-Simply open index.html in a WebGL compatible browser.
+Simply open index.html in a WebGL compatible web browser.
 
 ## Project Paper
 
